@@ -1,0 +1,34 @@
+nav{
+    background-color: rgb(128, 115, 0);
+}
+body {
+    text-align: center; background-color: rgb(236, 230, 250);
+}
+img {
+
+    width: 500px;
+}
+
+#myid{
+    background-color: lightcyan;
+}
+.link {
+    color: black;
+    padding: 95px;
+}
+nav ul li {
+    display:inline;
+}
+
+#nav2 ul li {display:block; color: green; text-decoration: none;
+}
+#nav2 ul li a {text-decoration: none; }
+
+#nav2 {background-color: yellow; 
+}    
+#nav2 ul li { margin-bottom: 18px; font-size: 27px;
+
+}
+#page2header {font-size: 45px;
+    color: red;
+}
